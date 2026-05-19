@@ -19,10 +19,10 @@
     "links": {
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Dylan-Perry/dp-modlists/main/wj_thumbnail-web.webp",
-      "readme": "https://keizaal.github.io/Keizaal/",
+      "readme": "https://monkeyangst.github.io/Eorlund/",
       "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
-      "machineURL": "JohnsSkyrimMakeover",
-      "discordURL": "https://discord.gg/wabbajack"
+      "machineURL": "Eorlund",
+      "discordURL": "https://discord.gg/CQwqvFKXB"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
